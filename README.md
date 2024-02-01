@@ -4,7 +4,7 @@
 
 We cab type equations, for example
 
-$$sqrt(x^2+y^2)$$
+$$\sqrt(x^2+y^2)$$
 
 ## Highlight code
 
