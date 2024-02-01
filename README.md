@@ -4,7 +4,7 @@
 
 We cab type equations, for example
 
-$$P(a<x<b)=\int(limits_(a)*(b)F(x)dx$$
+$$P(a<x<b)=displaystyle\int((a)^(b)F(x)dx$$
 
 ## Highlight code
 
