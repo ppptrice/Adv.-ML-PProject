@@ -4,7 +4,7 @@
 
 We cab type equations, for example
 
-$$P(a<x<b)=displaystyle\int_((a)^(b))F(x)dx$$
+$$sqrt(x^2+y^2)$$
 
 ## Highlight code
 
