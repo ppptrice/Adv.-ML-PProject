@@ -1,25 +1,9 @@
-# Example-0
+This is Patrick Phan's github Page for Advanced Machine learning.
 
-<img src='Phan_Assignment_11_2'
+### Previous data projects
 
-## Section name
+- Data Visualization Tableau Project presented on the William and Mary Data Stories website
+https://www.wm.edu/about/administration/provost/data-trends/student-enrollment/student-data-stories/
 
-We cab type equations, for example
-
-$$\sqrt(x^2+y^2)$$
-
-## Highlight code
-
-```python
-import numpy as np
-
-x = np.arange(0,10,0.5)
-
-def (f(x):
-  Return x**2+3
-```
-
-## UML Diagrams
-
-
-###
+- Automations and Workflows Project - Contains a deployable webpage used for exploratory data analysis of cytokine data
+- 
