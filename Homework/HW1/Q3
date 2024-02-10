@@ -1,6 +1,0 @@
-# # this block of code imports graphical libraries for plotting graphs with high resolution
-%matplotlib inline
-%config InlineBackend.figure_format = 'retina'
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-mpl.rcParams['figure.dpi'] = 120
